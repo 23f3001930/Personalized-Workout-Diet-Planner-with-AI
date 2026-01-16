@@ -42,8 +42,8 @@ python -m streamlit run app.py
 
 Open browser and visit:
 
-http://localhost:8501
-https://personalized-workout-diet-planner-with-ai11.streamlit.app/
+http://localhost:8501                         
+https://personalized-workout-diet-planner-with-ai11.streamlit.app/              
 How It Works
 
 User enters age, height, weight, goal, and diet preference
